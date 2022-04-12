@@ -1,6 +1,6 @@
 # Check list research
 
-#Algorithm Big-O
+# Algorithm Big-O
 ---
 
 # BE
@@ -11,4 +11,4 @@
 ## React
 ## Micro fontent
 
-#AWS
+# AWS
